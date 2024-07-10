@@ -113,6 +113,7 @@ flex-direction: column;
 justify-content: flex-start;
 align-items: center;
 padding: 80px 97px 80px 97px;
+margin-bottom: 168px;
 
 
 }
@@ -160,4 +161,24 @@ height: 48px;
 padding: 12px 20px 12px 20px;
 border: 1px solid rgb(13, 19, 33);
 opacity: 0.7;
+}
+
+.inspiration{
+    width: 1083px;
+    margin-left: 40px;
+     margin-right: 145px;
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-start;
+     align-items: center;
+     margin-bottom: 48px;
+}
+
+.video{
+    padding: 32px 32px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin-bottom: 149px;
 }
